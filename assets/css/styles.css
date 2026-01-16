@@ -1,0 +1,31 @@
+.body {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #e0ecff;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e0ecff;
+}
+
+.projects {
+  background-color: #e0ecff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #e0ecff;
+}
+
+footer p,
+a {
+  color: black;
+}
