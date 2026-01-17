@@ -8,7 +8,6 @@ Welcome to my portfolio! This repository contains my personal projects and showc
 - [Technologies Used](#technologies-used)
 - [Projects](#projects)
 - [Contact](#contact)
-
 ## About
 
 This portfolio showcases my work and projects that I have completed.
